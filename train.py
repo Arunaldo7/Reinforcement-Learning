@@ -2,7 +2,7 @@
 
 #Importing the libraries
 import numpy as np
-from environment import Environment
+from star_environment import Environment
 
 #Creating the bots
 class Route():
