@@ -10,8 +10,8 @@ class Environment():
         
         self.cellWidth = 100
         self.cellHeight = 100
-        self.nRows = 3
-        self.nColumns = 4
+        self.nRows = 6
+        self.nColumns = 8
         self.rewards = [-3, -10, 1000, -20000, -20]
         
         for reward in self.rewards:
